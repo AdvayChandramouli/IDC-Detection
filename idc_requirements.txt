@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+imbalanced-learn
+tqdm
+Pillow
+opencv-python
