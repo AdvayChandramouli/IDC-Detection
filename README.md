@@ -5,7 +5,7 @@ Breast cancer is one of the most common cancers affecting women worldwide. Invas
 
 
 ## Our Team🚀
-- [Advay Chandramouli](https://www.linkedin.com/in/advaychandramouli/) - University of Texas at Dallas
+- [Advay Chandramouli](https://www.linkedin.com/in/advaychandramouli/) - The University of Texas at Dallas
 
 - [Josue F. Godeme](https://www.linkedin.com/in/josue-f-godeme-58abb2196/) - Dartmouth College
 
