@@ -9,7 +9,7 @@ Breast cancer is one of the most common cancers affecting women worldwide. Invas
 
 - [Josue F. Godeme](https://www.linkedin.com/in/josue-f-godeme-58abb2196/) - Dartmouth College
 
-- [Zeyu Zhao]() - Uni
+- [Zeyu Zhao]() - Mount Holyoke College
 ## Features
 
 - **Implementation of Machine Learning Algorithms**:  
