@@ -1,0 +1,5 @@
+# Ignore dataset
+breast-histopathology-images.zip
+
+#Ignore Jupyter model checkpoints
+.ipynb_checkpoints
